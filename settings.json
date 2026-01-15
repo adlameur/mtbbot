@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "dynamic-6.magmanode.com", 
+    "port": 25822,   
     "version": "1.12.1"   
   },
 
